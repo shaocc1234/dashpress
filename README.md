@@ -1,32 +1,3 @@
-<h1 align="center">
-  <a href="https://github.com/dashpresshq/dashpress">
-    <img src="https://dashpress.io/assets/banner/1.png" alt="Logo" >
-  </a>
-</h1>
-
-<div align="center">
-
-[![Project license](https://img.shields.io/github/license/dashpresshq/dashpress.svg)](LICENSE)
-[![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-23bc42.svg)](https://github.com/dashpresshq/dashpress/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-<img src="https://img.shields.io/npm/v/dashpress" />
-<img src="https://img.shields.io/github/languages/top/dashpresshq/dashpress" />
-
-
-[![Maintainability](https://api.codeclimate.com/v1/badges/23516bfbcca7557d80a5/maintainability)](https://codeclimate.com/github/dashpresshq/dashpress/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/23516bfbcca7557d80a5/test_coverage)](https://codeclimate.com/github/dashpresshq/dashpress/test_coverage)
-<img src="https://img.shields.io/codeclimate/tech-debt/dashpresshq/dashpress" />
-![GitHub CI](https://github.com/dashpresshq/dashpress/actions/workflows/release.yml/badge.svg)
-
-</div>
-
-<div align="center">
-  <a href="https://demo.dashpress.io" target="_blank">在线演示</a>
-  ·
-  <a href="https://discord.gg/aV6DxwXhzN" target="_blank">加入社区</a>
-</div>
-
----
-
 ## 关于
 Dashpress 是一个管理应用生成器，可以帮助你快速高效地将数据库模式转换为时尚、可定制且高性能的管理仪表板。
 
